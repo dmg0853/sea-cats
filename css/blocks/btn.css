@@ -1,0 +1,12 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 6px 10px;
+    font-size: 14px;
+    gap: 10px;
+    border: none;
+    background-color: #03899C;
+    color: var(--text-light-color);
+}
